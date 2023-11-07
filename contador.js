@@ -11,3 +11,6 @@ while (cont2 > 0) { // ENQUANTO
     cont2-- // cont = cont - 1
     console.log(cont2)
 }
+
+
+
